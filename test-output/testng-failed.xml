@@ -3,11 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="SeleniumChallenges._8_DragAndDrop">
+      <class name="SeleniumChallenges._17_GeoLocation">
         <methods>
-          <include name="dragAndDrop"/>
+          <include name="setUp"/>
+          <include name="geoLocationTest"/>
+          <include name="tearDown"/>
         </methods>
-      </class> <!-- SeleniumChallenges._8_DragAndDrop -->
+      </class> <!-- SeleniumChallenges._17_GeoLocation -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
