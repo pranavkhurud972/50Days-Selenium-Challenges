@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="SeleniumChallenges._17_GeoLocation">
+      <class name="SeleniumChallenges.dfsff">
         <methods>
+          <include name="productPriceSortingTest"/>
           <include name="setUp"/>
-          <include name="geoLocationTest"/>
           <include name="tearDown"/>
         </methods>
-      </class> <!-- SeleniumChallenges._17_GeoLocation -->
+      </class> <!-- SeleniumChallenges.dfsff -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-04-07T01:06:48 IST" name="Default suite" finished-at="2024-04-07T01:07:05 IST" duration-ms="16446">
+  <suite started-at="2024-04-21T22:13:58 IST" name="Default suite" finished-at="2024-04-21T22:14:27 IST" duration-ms="29121">
     <groups>
     </groups>
-    <test started-at="2024-04-07T01:06:48 IST" name="Default test" finished-at="2024-04-07T01:07:05 IST" duration-ms="16446">
-      <class name="SeleniumChallenges._17_GeoLocation">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumChallenges._17_GeoLocation@2f4948e4]" started-at="2024-04-07T01:06:49 IST" name="setUp" finished-at="2024-04-07T01:06:58 IST" duration-ms="9262" status="PASS">
+    <test started-at="2024-04-21T22:13:58 IST" name="Default test" finished-at="2024-04-21T22:14:27 IST" duration-ms="29121">
+      <class name="SeleniumChallenges._22_ProductCount">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumChallenges._22_ProductCount@2f4948e4]" started-at="2024-04-21T22:13:58 IST" name="setUp" finished-at="2024-04-21T22:14:13 IST" duration-ms="15133" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="geoLocationTest()[pri:0, instance:SeleniumChallenges._17_GeoLocation@2f4948e4]" started-at="2024-04-07T01:06:58 IST" name="geoLocationTest" finished-at="2024-04-07T01:07:03 IST" duration-ms="5527" status="PASS">
+        <test-method signature="productPriceSortingTest()[pri:0, instance:SeleniumChallenges._22_ProductCount@2f4948e4]" started-at="2024-04-21T22:14:13 IST" name="productPriceSortingTest" finished-at="2024-04-21T22:14:26 IST" duration-ms="13062" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- geoLocationTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumChallenges._17_GeoLocation@2f4948e4]" started-at="2024-04-07T01:07:03 IST" name="tearDown" finished-at="2024-04-07T01:07:05 IST" duration-ms="1548" status="PASS">
+        </test-method> <!-- productPriceSortingTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumChallenges._22_ProductCount@2f4948e4]" started-at="2024-04-21T22:14:26 IST" name="tearDown" finished-at="2024-04-21T22:14:27 IST" duration-ms="827" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- SeleniumChallenges._17_GeoLocation -->
+      </class> <!-- SeleniumChallenges._22_ProductCount -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
